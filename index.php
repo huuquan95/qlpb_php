@@ -31,15 +31,15 @@
 	</div>
 	<div class="container">
 		<div class="col-md-2"> 
-			<ul style="list-style-type: none;" id="list_menu">
-				<li><a id="TrangChu.php" href="#">Trang chủ</a></li>
-				<li><a id="XemNhanVien.php" href="#">Xem nhân viên</a></li>
-				<li><a id="XemPhongBan.php" href="#">Xem phòng ban</a></li>
-				<li><a id="TimKiem.php" href="#">Tìm kiếm</a></li>
-				<li><a id="CapNhatThongTin.php" href="#">Cập nhật thông tin</a></li>
-				<li><a id="XoaThongTin.php" href="#">Xóa thông tin</a></li>
-				<li><a id="XoaTatCa.php" href="#">Xóa tất cả</a></li>
-				<li><a id="TroGiupChuongTrinh.php" href="#">Trợ giúp chương trình</a></li>
+			<ul id="list_menu">
+				<li><a id="TrangChu.php">Trang chủ</a></li>
+				<li><a id="XemNhanVien.php">Xem nhân viên</a></li>
+				<li><a id="XemPhongBan.php">Xem phòng ban</a></li>
+				<li><a id="TimKiem.php">Tìm kiếm</a></li>
+				<li><a id="CapNhatThongTin.php">Cập nhật thông tin</a></li>
+				<li><a id="XoaThongTin.php">Xóa thông tin</a></li>
+				<li><a id="XoaTatCa.php">Xóa tất cả</a></li>
+				<li><a id="TroGiupChuongTrinh.php">Trợ giúp chương trình</a></li>
 			</ul>
 		</div>
 		<div class="col-md-8 container" style="margin-top: 30px;" id="noidung">

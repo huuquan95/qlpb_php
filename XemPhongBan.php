@@ -22,7 +22,7 @@ include("KetNoi.php");
 		<?php
 		$sl= mysqli_query($conn,"select * from phongban");
 		while($row= mysqli_fetch_assoc($sl)){
-			echo '<tr><td>'.$row['MaPhongBan'].'</td><td>'.$row['TenPhongBan'].'</td><td>'.$row['ThoiGian'].'</td><td><a id="XemPhongBanCuthe.php?MaPhongBan='.$row['MaPhongBan'].'" href="#">Xem</a></td></tr>';
+			echo '<tr><td>'.$row['MaPhongBan'].'</td><td>'.$row['TenPhongBan'].'</td><td>'.$row['ThoiGian'].'</td><td><a id="XemPhongBanCuthe.php?MaPhongBan='.$row['MaPhongBan'].'">Xem</a></td></tr>';
 		}
 		?>
 	</table>
