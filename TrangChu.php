@@ -1,0 +1,1 @@
+<img src="img/img_homepage.jpg" class="img-rounded" style="width: 100%;height: auto;">
